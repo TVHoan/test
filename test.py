@@ -1,2 +1,4 @@
 class student:
+    name = "hoàn"
+    
  
